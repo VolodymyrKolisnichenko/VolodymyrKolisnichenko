@@ -1,2 +1,4 @@
 ### My tech stack
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+</div>

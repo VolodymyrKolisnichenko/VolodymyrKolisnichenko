@@ -46,6 +46,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>&nbsp;
 </div>
 
 ### 💻 Codewars:

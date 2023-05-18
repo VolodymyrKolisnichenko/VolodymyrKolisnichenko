@@ -14,7 +14,7 @@
 </div>
 
 
-### 🛠 Инструменты:
+### 🛠 Dev tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;

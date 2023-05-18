@@ -1,5 +1,5 @@
 
-Hey there! 👋 I'm [Volodymyr Kolisnichenko], a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
+Hey there! 👋 I'm Volodymyr Kolisnichenko, a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
 
 
 <div>

@@ -39,6 +39,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
       <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" alt="facebook" />
     </a>
    
+   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
    
 <!-- ### My tech stack -->
 

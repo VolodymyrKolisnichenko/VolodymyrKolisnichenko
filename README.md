@@ -1,3 +1,35 @@
+
+Hey there! 👋 I'm [Volodymyr Kolisnichenko], a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- SCSS
+- Redux
+
+I also have experience with build tools like Gulp and Webpack, and I use Koala for Sass compilation. Bootstrap is my go-to framework for creating responsive and sleek web designs.
+
+When it comes to version control, I rely on Git to keep track of my projects, collaborate with others, and maintain code integrity.
+
+In addition to coding, I have a creative side that I express through design using tools like Figma. I believe in the power of combining functionality with aesthetics to deliver delightful user experiences.
+
+I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest industry trends. I enjoy tackling challenges and collaborating with others to build innovative web applications.
+
+Feel free to browse through my GitHub repositories to see some of my projects and contributions. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project!
+
+
+
+### 🤝 Social media:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/volodymyr-kolisnichenko-885672277/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+
+   
+   
 ### My tech stack
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -16,14 +48,17 @@
 
 ### 🛠 Dev tools:
 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  
 </div>
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/futureBoBka/badges/large)
 ### ⚙️ GitHub statistics:
+
+
 
 <table>
   <tr>
@@ -36,11 +71,6 @@
   </tr>
 </table>
 
-### 🤝 Social media:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/volodymyr-kolisnichenko-885672277/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)

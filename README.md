@@ -35,7 +35,9 @@ Feel free to browse through my GitHub repositories to see some of my projects an
     <a href="https://www.linkedin.com/in/volodymyr-kolisnichenko-885672277/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-
+    <a href="https://www.facebook.com/profile.php?id=100011644665786" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" alt="facebook" />
+    </a>
    
    
 <!-- ### My tech stack -->

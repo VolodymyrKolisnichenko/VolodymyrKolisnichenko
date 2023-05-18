@@ -37,10 +37,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
     </a>
     <a href="https://www.facebook.com/profile.php?id=100011644665786" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" alt="facebook" />
-    </a>
-   
-   <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="volodymyr-kolisnichenko-885672277" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/volodymyr-kolisnichenko-885672277?trk=profile-badge">Volodymyr Kolisnichenko</a></div>
-              
+    </a>           
    
 <!-- ### My tech stack -->
 

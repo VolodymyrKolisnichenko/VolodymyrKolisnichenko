@@ -1,13 +1,7 @@
 
 Hey there! 👋 I'm [Volodymyr Kolisnichenko], a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
 
-<!-- - HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- SCSS
-- Redux -->
+
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -21,6 +15,7 @@ Hey there! 👋 I'm [Volodymyr Kolisnichenko], a passionate and aspiring program
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
+
 
 I also have experience with build tools like Gulp and Webpack, and I use Koala for Sass compilation. Bootstrap is my go-to framework for creating responsive and sleek web designs.
 

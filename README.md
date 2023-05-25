@@ -37,7 +37,11 @@ Feel free to browse through my GitHub repositories to see some of my projects an
       <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" alt="facebook" />
     </a>           
    
-<!-- ### My tech stack -->
+### My portfolio:
+   
+   <div>
+      https://volodymyrkolisnichenko.github.io/my-portfolio-react/
+   </div>
 
 
 ### 🛠 Dev tools:

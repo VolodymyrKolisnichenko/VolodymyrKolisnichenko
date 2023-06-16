@@ -41,7 +41,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
      
 ### 👨‍💻 My portfolio:
    <div>
-      <a href="https://volodymyrkolisnichenko.github.io/my-portfolio-react" target="_blank">
+      <a href="https://volodymyrkolisnichenko.github.io/portfolio" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" alt="github" />
    </div>
 

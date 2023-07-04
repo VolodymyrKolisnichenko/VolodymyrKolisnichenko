@@ -15,7 +15,6 @@ Hey there! 👋 I'm Volodymyr Kolisnichenko, a passionate and aspiring programme
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-
 I also have experience with build tools like Gulp and Webpack, and I use Koala for Sass compilation. Bootstrap is my go-to framework for creating responsive and sleek web designs.
 
 When it comes to version control, I rely on Git to keep track of my projects, collaborate with others, and maintain code integrity.

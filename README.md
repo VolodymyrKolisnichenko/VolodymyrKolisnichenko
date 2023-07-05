@@ -26,7 +26,6 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 Feel free to browse through my GitHub repositories to see some of my projects and contributions. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project!
 
 
-
 ### 🤝 Social media:
 
   <div id="badges">

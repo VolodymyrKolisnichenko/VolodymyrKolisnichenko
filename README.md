@@ -53,7 +53,6 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/futureBoBka/badges/large)
 
-
 ### ⚙️ GitHub statistics:
 <table>
   <tr>

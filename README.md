@@ -1,4 +1,3 @@
-
 Hey there! 👋 I'm Volodymyr Kolisnichenko, a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
